@@ -41,7 +41,7 @@ If you want the full GUI version with:
 You can get it here:
 
 Ko-fi (full version):
-https://ko-fi.com/corescriptlab
+https://ko-fi.com/s/c03d7e2124
 
 Gumroad (premium build):
 https://gumroad.com/corescriptlab
