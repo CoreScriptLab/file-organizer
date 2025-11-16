@@ -44,4 +44,4 @@ Ko-fi (full version):
 https://ko-fi.com/s/c03d7e2124
 
 Gumroad (premium build):
-https://gumroad.com/corescriptlab
+https://corescriptlab.gumroad.com/l/file-organizer
